@@ -11,6 +11,7 @@ int main() {
   scanf("%d", &a);
   scanf("%d", &b);
 
-  printf("soma = %d\n", soma(a,b));
+  printf("O resultado da soma é %d\n", soma(a,b));
 
   return 0;
+}
