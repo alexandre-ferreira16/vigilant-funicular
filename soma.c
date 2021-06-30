@@ -8,7 +8,7 @@ int main() {
   int a, b, c;
   int s;
   
-  printf("Digite os valores para soma:\n");
+  printf("Digite tres valores para soma:\n");
 
   scanf("%d", &a);
   scanf("%d", &b);
